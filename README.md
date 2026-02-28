@@ -1,4 +1,4 @@
-# DocSpot-Seamless-Appointment-Booking-for-Health
+# DocSpot-Seamless Appointment Booking for Health
 
 # Project Description
 This is a full-stack web application developed using the MERN stack. 
